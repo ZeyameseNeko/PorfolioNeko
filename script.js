@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     try {
-      const response = await fetch("https://formsubmit.co/ajax/d6ffca2cf870c75c16c2bf848501cb8b", {
+      const response = await fetch("https://formsubmit.co/yoshmolato42@gmail.com", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
